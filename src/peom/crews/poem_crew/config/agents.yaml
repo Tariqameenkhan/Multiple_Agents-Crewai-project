@@ -6,6 +6,8 @@ junior_python_developer:
   backstory: >
     You have 3 years python web development exprience
     you know how to use flask, django
+  # llm: ollama/deepseek-r1:1.5b
+  # base_url : http://localhost:11434
 
 
 senior_python_developer:
